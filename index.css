@@ -157,10 +157,10 @@ body,html {
     color:#fff;
 }
 .btn_one {
-    color:white;
+    color:black;
     padding:10px 40px;
     border-radius:50px;
-    border:2px solid #fff;
+    border:2px solid #000000;
     font-size:18px;
     font-family: 'Comfortaa', cursive;
     font-weight:bold;
